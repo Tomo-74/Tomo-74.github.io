@@ -4,7 +4,8 @@
 
 ![Boise State University](http://pvmapper.org/img/BSU.jpg)
 
-View my GitHub profile at [Tomo-74](https://github.com/Tomo-74)
+This is a Github webpage
+Here's my GitHub profile: [Tomo-74](https://content.sportslogos.net/logos/30/617/full/7592_boise_state_broncos-alternate-2013.png)
 
 My hobbies include:
 - Gaming
