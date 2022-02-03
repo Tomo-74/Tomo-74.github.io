@@ -7,6 +7,6 @@
 View my GitHub profile at [Tomo-74](https://github.com/Tomo-74)
 
 My hobbies include:
--Gaming
--Reading
--Coding
+- Gaming
+- Reading
+- Coding
